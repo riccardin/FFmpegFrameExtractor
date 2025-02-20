@@ -1,2 +1,1 @@
-# FFmpegFrameExtractor
-A repository for a C# command-line application to extract frames from a video based on scene changes using FFmpeg
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
